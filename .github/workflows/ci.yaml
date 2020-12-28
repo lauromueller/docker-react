@@ -17,5 +17,4 @@ jobs:
         with:
           context: .
           file: ./Dockerfile.dev
-          platforms: linux/amd64,linux/arm64,linux/386
           push: false
